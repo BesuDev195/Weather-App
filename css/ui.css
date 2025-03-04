@@ -1,0 +1,36 @@
+.card {
+  font-family: cursive;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: linear-gradient(180deg, hsl(250, 100%, 75%), rgb(180, 202, 57));
+  width: 350px;
+  margin: 40px auto;
+}
+input {
+  padding: 10px;
+  margin: 10px;
+  width: 200px;
+  border: 2px solid gray;
+  border-radius: 10px;
+}
+button {
+  padding: 10px;
+  border: 2px solid gray;
+  border-radius: 10px;
+}
+.weathericon {
+  margin: 0;
+  font-size: 100px;
+}
+p,
+h2 {
+  margin: 10px;
+}
+h1,
+h2 {
+  margin: 5px;
+}
+.errorMSG {
+  font-size: 20px;
+}
