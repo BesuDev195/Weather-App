@@ -1,11 +1,14 @@
+
 .card {
-  font-family: cursive;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   display: flex;
   flex-direction: column;
   align-items: center;
   background: linear-gradient(180deg, hsl(250, 100%, 75%), rgb(180, 202, 57));
   width: 350px;
   margin: 40px auto;
+  border-radius: 10px;
+  margin-top: 0;
 }
 input {
   padding: 10px;
@@ -33,4 +36,19 @@ h2 {
 }
 .errorMSG {
   font-size: 20px;
+}
+.inputt{
+  font-family: cursive;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* background: linear-gradient(180deg, hsl(250, 100%, 75%), rgb(180, 202, 57)); */
+  width: 350px;
+  margin: 40px auto;
+}
+
+.weatherIcon{
+  font-size: 170px;
+  padding: 0;
+  margin: 0;
 }

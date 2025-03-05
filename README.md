@@ -1,1 +1,2 @@
 # Weather-App
+This weather App is created to understand js deeply not for bussiness purpose and I use The API FROM OpenWeather Map, and the Api can't fetch data for Ethiopia's city because the API didn't included.
